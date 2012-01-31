@@ -1,0 +1,11 @@
+c:\users\dylan\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\dylan\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+c:\users\dylan\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\dylan\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\dylan\documents\visual studio 2010\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\dylan\documents\visual studio 2010\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\dylan\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+c:\users\dylan\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\Dylan\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.Calc.resources
+C:\Users\Dylan\Documents\Visual Studio 2010\Projects\CalculatorRepo\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\Dylan\Documents\Visual Studio 2010\Projects\CalculatorRepo\Calculator\obj\x86\Debug\Calculator.pdb
