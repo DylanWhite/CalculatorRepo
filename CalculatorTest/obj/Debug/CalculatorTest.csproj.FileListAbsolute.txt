@@ -5,3 +5,10 @@ C:\Users\Dylan\documents\visual studio 2010\Projects\Calculator\CalculatorTest\o
 C:\Users\Dylan\documents\visual studio 2010\Projects\Calculator\CalculatorTest\obj\Debug\CalculatorTest.pdb
 C:\Users\Dylan\documents\visual studio 2010\Projects\Calculator\CalculatorTest\bin\Debug\Calculator.exe
 C:\Users\Dylan\documents\visual studio 2010\Projects\Calculator\CalculatorTest\bin\Debug\Calculator.pdb
+C:\Users\Dylan\Documents\Visual Studio 2010\Projects\CalculatorRepo\CalculatorTest\bin\Debug\CalculatorTest.dll
+C:\Users\Dylan\Documents\Visual Studio 2010\Projects\CalculatorRepo\CalculatorTest\bin\Debug\CalculatorTest.pdb
+C:\Users\Dylan\Documents\Visual Studio 2010\Projects\CalculatorRepo\CalculatorTest\bin\Debug\Calculator.exe
+C:\Users\Dylan\Documents\Visual Studio 2010\Projects\CalculatorRepo\CalculatorTest\bin\Debug\Calculator.pdb
+C:\Users\Dylan\Documents\Visual Studio 2010\Projects\CalculatorRepo\CalculatorTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dylan\Documents\Visual Studio 2010\Projects\CalculatorRepo\CalculatorTest\obj\Debug\CalculatorTest.dll
+C:\Users\Dylan\Documents\Visual Studio 2010\Projects\CalculatorRepo\CalculatorTest\obj\Debug\CalculatorTest.pdb
