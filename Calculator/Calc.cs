@@ -29,7 +29,7 @@ namespace Calculator
         }        
         public int Mul(int mVal1, int mVal2)
         {
-            return mVal1 + mVal2;
+            return mVal1 / mVal2;
         }        
         public int Div(int val1, int val2)
         {
