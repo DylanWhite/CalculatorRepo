@@ -40,7 +40,7 @@ namespace CalculatorTest
         }
         
         [TestMethod]
-        public void TestAdditionmethod()
+        public void TestAdditionMethod()
         {
             //arranges the method
             var calc = new Calc();
