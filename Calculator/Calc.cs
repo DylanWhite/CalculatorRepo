@@ -117,6 +117,12 @@ namespace Calculator
 
                 tb.Clear();
                 lblAns.Text = Convert.ToString("Your Answer Is: " + c);
+
+                f = 0;
+                b = 0;
+                c = 0;
+                z = 0;
+                
         }
 
         //code to clear the text box and reset the label
