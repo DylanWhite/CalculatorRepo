@@ -13,6 +13,7 @@ namespace CalculatorTest
     [TestClass]
     public class CalcTest
     {
+        //Divide test method
         [TestMethod]
         public void TestDivideMethod()
         {
@@ -26,6 +27,7 @@ namespace CalculatorTest
             Assert.AreEqual(3, result);
         }
 
+        //Subtract test method
         [TestMethod]
         public void TestSubtractMethod()
         { 
@@ -39,6 +41,7 @@ namespace CalculatorTest
             Assert.AreEqual(15, result);
         }
         
+        //Add test method
         [TestMethod]
         public void TestAdditionMethod()
         {
@@ -51,7 +54,8 @@ namespace CalculatorTest
             //Assert
             Assert.AreEqual(6, result);
         }
-            
+        
+        //Multiply Test method
         [TestMethod]
         public void TestMultiplymethod()
         {
@@ -65,6 +69,7 @@ namespace CalculatorTest
             Assert.AreEqual(8, result);
         }
 
+        //IsNullOrEmpty test method
         [TestMethod]
         public void TestEmptyString()
         {
