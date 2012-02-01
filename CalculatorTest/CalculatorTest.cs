@@ -8,7 +8,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace CalculatorTest
 {
     /// <summary>
-    /// 
+    ///  Tests for the methods in Calc.cs
     /// </summary>
     [TestClass]
     public class CalcTest
@@ -74,7 +74,11 @@ namespace CalculatorTest
         public void TestEmptyString()
         {
             //test logic here
-            Assert.Inconclusive();
+            var calc = new Calc();
+
+            var result = calc.EmptyMethod();
+
+            Assert.IsNull(result);
         }
     }
 }
