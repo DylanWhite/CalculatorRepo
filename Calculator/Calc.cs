@@ -20,7 +20,17 @@ namespace Calculator
         {
             InitializeComponent();
         }
-
+        
+        public int Add(int aVal1, int aVal2)
+        {
+            return aVal + aVal2;
+        }
+        
+        public int Mul(int mVal1, int mVal2)
+        {
+            return mVal1 * mVal2
+        }
+        
         public int Div(int val1, int val2)
         {
             return val1 / val2;
