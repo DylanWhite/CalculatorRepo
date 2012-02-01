@@ -117,4 +117,29 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAABILAAASCwAAAAAAAAAA
+        AADt9fcx097h5LbDxv+0wcP/t8TG/73KzP+7yMr/uMXH/7nFx/++y83/u8jK/7fExv+zwcP/uMbJ/8/c
+        3qL///8D0t/iRrzJzPa4xcj/u8rM/7rIy/+3xMf/vcrM/77Mzv+7ycv/t8XH/7O/wv+tur3/prO2/6u5
+        u/+8y83A2ebpCM3b3kbAztD24vDy/+n4+v/k8vX/0N7g/+Px8//r+vz/5fT3/9He4f/T4OP/1OLl/8nY
+        2/+6yMr/vMrMwNXh4wjO299Gwc7Q9uPu8P/q9vj/4/Hz/83a3f/i7e//6/b5/+Px8//O29//2efr/97s
+        8P/X5en/w9HU/73KzMDY4+UI0N3hRrzJzPauu73/sb3A/6+8v/+yvsL/tL/E/7K+wv+vvL//tsLH/+Pv
+        9P/o9fn/3+7z/8nX2/++y83A2eTnCNTh5UbDz9T21+Ln/9/r8v/b5+//zNXe/9vl7v/j7vf/3ejy/8/Z
+        4//z+v//+P///+z4///P3OL/wMzQwNvl6Ajc5elGz9ng9vT7////////+f///+Xq+//+////////////
+        ///q7v//////////////////2uTt/8XP1cDd5+sI4envRtXe6fbf5PD/4Onx/9/o8//U3er/4ef1/+jt
+        /P/h5/b/1Nvq/+Ln9//k6fb/1t/p/8zU4f/M1d7A4envCOjy+0bY3ez2Z4xn/zZ9IP8+giv/P4Ir/z6A
+        KP86eyL/OHge/zV0Gf8uZBP/I1kE/xZNAP9yh3b/1NrpwOry+Qjw+f9G297w9lGASv8qdxD/NHsd/06Q
+        Ov9rql3/QYQp/yxxDP8mawH/HGAA/yNiAP8tcQ7/bohx/9jb78Dx+P8I9fz/RuHi9/ZfiV3/PYot/1CU
+        Qv+Au3z/Z6Fc/3mzcv9EhC3/Onod/zp7HP9hn1P/K20L/3iPfv/c3vXA8/r/CPT8/0bj5Pn2ZY1n/0iW
+        P/9vsWz/e7d2/1OSR/95snT/X5tQ/0CAJ/9joFP/Sosz/w1OAP9ofmj/3uD3wPP5/wjy+v9G4OL29miS
+        cP9QolD/hsaH/2irZP9Wmk7/aKZh/3Ktav9HiDL/cLBo/y90Df8QVAD/Z35n/93f9sDw9v8I9vz/Rt3h
+        8fZ+qYX/dr9y/33DfP9ap1n/VJ9O/1ObSP94uXH/aaxe/1WbQv8eaQD/ClUA/2B7X//Y3vPA6fP8CPn+
+        /0bf5vL2f5eM/3unhP9pnnD/YZll/2GUYv9cjlf/ZZph/3OmcP9JgTj/OHQh/ylhD/9yh3n/1d/vwOr3
+        /wj3/P8x8/n/5NPa5f/K0d7/1djp/9ja7f/a2/D/3d3z/9vc8f/Z2/D/2dzx/9TX6v/Hz97/y9Xi/+Hr
+        9qL///8DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAA==
+</value>
+  </data>
 </root>
