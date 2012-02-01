@@ -31,13 +31,22 @@ namespace Calculator
         {
             return mVal1 * mVal2;
         }        
-        public int Div(int val1, int val2)
+        public int Div(int dVal1, int dVal2)
         {
-            return val1 / val2;
+            return dVal1 / dVal2;
         }
         public int Sub(int sVal1, int sVal2)
         {
             return sVal1 - sVal2;
+        }
+
+        //IsNullOrEmpty method
+        public static String Test(string s)
+        {
+            if (String.IsNullOrEmpty(s))
+                return "is null or empty";
+            else
+                return String.Format("(\"{0}\") is not null or empty", s);
         }
         
         //add button click event

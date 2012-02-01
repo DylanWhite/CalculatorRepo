@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="73349fed-9262-46e5-a40a-2e4ce3b9d6e1" name="Dylan@DYLAN-TOSH 2012-02-01 11:01:26" runUser="Dylan-TOSH\Dylan" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="8afe4a9c-3d1d-4dc8-aca7-eac8428b1626">
+    <Deployment runDeploymentRoot="Dylan_DYLAN-TOSH 2012-02-01 11_01_26">
+      <DeploymentItem filename="C:\Users\Dylan\Documents\Visual Studio 2010\Projects\CalculatorRepo\Calculator\bin\Debug\Calculator.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-02-01T11:01:26.4905459+00:00" queuing="2012-02-01T11:01:26.8725678+00:00" start="2012-02-01T11:01:26.8875686+00:00" finish="2012-02-01T11:01:27.4245993+00:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="5" executed="5" passed="5" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestDivideMethod" storage="c:\users\dylan\documents\visual studio 2010\projects\calculatorrepo\calculatortest\bin\debug\calculatortest.dll" id="3a99b09a-7642-5df7-aaf9-26c4b9868627">
+      <Execution id="d35f8e13-0a67-4343-aebc-e6eb4a8353a7" />
+      <TestMethod codeBase="C:/Users/Dylan/Documents/Visual Studio 2010/Projects/CalculatorRepo/CalculatorTest/bin/Debug/CalculatorTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CalculatorTest.CalcTest, CalculatorTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestDivideMethod" />
+    </UnitTest>
+    <UnitTest name="TestEmptyString" storage="c:\users\dylan\documents\visual studio 2010\projects\calculatorrepo\calculatortest\bin\debug\calculatortest.dll" id="a25d280d-4293-61e3-65de-468b3b0f9c79">
+      <Execution id="b7de0320-898e-4cfc-bb44-950060509880" />
+      <TestMethod codeBase="C:/Users/Dylan/Documents/Visual Studio 2010/Projects/CalculatorRepo/CalculatorTest/bin/Debug/CalculatorTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CalculatorTest.CalcTest, CalculatorTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestEmptyString" />
+    </UnitTest>
+    <UnitTest name="TestSubtractMethod" storage="c:\users\dylan\documents\visual studio 2010\projects\calculatorrepo\calculatortest\bin\debug\calculatortest.dll" id="f55850c3-82e2-aca8-5368-dd9badfe41ad">
+      <Execution id="342ce47e-111b-4ae2-976e-71a400f48061" />
+      <TestMethod codeBase="C:/Users/Dylan/Documents/Visual Studio 2010/Projects/CalculatorRepo/CalculatorTest/bin/Debug/CalculatorTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CalculatorTest.CalcTest, CalculatorTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestSubtractMethod" />
+    </UnitTest>
+    <UnitTest name="TestMultiplymethod" storage="c:\users\dylan\documents\visual studio 2010\projects\calculatorrepo\calculatortest\bin\debug\calculatortest.dll" id="ba2bc092-55c2-58ef-915c-329fad736577">
+      <Execution id="8cf807f3-25fa-469e-9591-fe825e340c8e" />
+      <TestMethod codeBase="C:/Users/Dylan/Documents/Visual Studio 2010/Projects/CalculatorRepo/CalculatorTest/bin/Debug/CalculatorTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CalculatorTest.CalcTest, CalculatorTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMultiplymethod" />
+    </UnitTest>
+    <UnitTest name="TestAdditionMethod" storage="c:\users\dylan\documents\visual studio 2010\projects\calculatorrepo\calculatortest\bin\debug\calculatortest.dll" id="372d0f80-80d9-771c-d909-9df1d51ccd5e">
+      <Execution id="b1540a1d-7c2f-49b0-bedd-f26489a697d6" />
+      <TestMethod codeBase="C:/Users/Dylan/Documents/Visual Studio 2010/Projects/CalculatorRepo/CalculatorTest/bin/Debug/CalculatorTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CalculatorTest.CalcTest, CalculatorTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestAdditionMethod" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="372d0f80-80d9-771c-d909-9df1d51ccd5e" executionId="b1540a1d-7c2f-49b0-bedd-f26489a697d6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3a99b09a-7642-5df7-aaf9-26c4b9868627" executionId="d35f8e13-0a67-4343-aebc-e6eb4a8353a7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a25d280d-4293-61e3-65de-468b3b0f9c79" executionId="b7de0320-898e-4cfc-bb44-950060509880" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ba2bc092-55c2-58ef-915c-329fad736577" executionId="8cf807f3-25fa-469e-9591-fe825e340c8e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f55850c3-82e2-aca8-5368-dd9badfe41ad" executionId="342ce47e-111b-4ae2-976e-71a400f48061" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="b1540a1d-7c2f-49b0-bedd-f26489a697d6" testId="372d0f80-80d9-771c-d909-9df1d51ccd5e" testName="TestAdditionMethod" computerName="DYLAN-TOSH" duration="00:00:00.0351486" startTime="2012-02-01T11:01:26.9625729+00:00" endTime="2012-02-01T11:01:27.3475949+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b1540a1d-7c2f-49b0-bedd-f26489a697d6">
+    </UnitTestResult>
+    <UnitTestResult executionId="d35f8e13-0a67-4343-aebc-e6eb4a8353a7" testId="3a99b09a-7642-5df7-aaf9-26c4b9868627" testName="TestDivideMethod" computerName="DYLAN-TOSH" duration="00:00:00.0021081" startTime="2012-02-01T11:01:27.3515952+00:00" endTime="2012-02-01T11:01:27.3585956+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d35f8e13-0a67-4343-aebc-e6eb4a8353a7">
+    </UnitTestResult>
+    <UnitTestResult executionId="b7de0320-898e-4cfc-bb44-950060509880" testId="a25d280d-4293-61e3-65de-468b3b0f9c79" testName="TestEmptyString" computerName="DYLAN-TOSH" duration="00:00:00.0001726" startTime="2012-02-01T11:01:27.3605957+00:00" endTime="2012-02-01T11:01:27.3655960+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b7de0320-898e-4cfc-bb44-950060509880">
+    </UnitTestResult>
+    <UnitTestResult executionId="8cf807f3-25fa-469e-9591-fe825e340c8e" testId="ba2bc092-55c2-58ef-915c-329fad736577" testName="TestMultiplymethod" computerName="DYLAN-TOSH" duration="00:00:00.0029512" startTime="2012-02-01T11:01:27.3685961+00:00" endTime="2012-02-01T11:01:27.3765966+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8cf807f3-25fa-469e-9591-fe825e340c8e">
+    </UnitTestResult>
+    <UnitTestResult executionId="342ce47e-111b-4ae2-976e-71a400f48061" testId="f55850c3-82e2-aca8-5368-dd9badfe41ad" testName="TestSubtractMethod" computerName="DYLAN-TOSH" duration="00:00:00.0021202" startTime="2012-02-01T11:01:27.3795968+00:00" endTime="2012-02-01T11:01:27.3865972+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="342ce47e-111b-4ae2-976e-71a400f48061">
+    </UnitTestResult>
+  </Results>
+</TestRun>

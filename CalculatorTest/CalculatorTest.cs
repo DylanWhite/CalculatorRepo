@@ -64,5 +64,12 @@ namespace CalculatorTest
             //Assert
             Assert.AreEqual(8, result);
         }
+
+        [TestMethod]
+        public void TestEmptyString()
+        {
+            //test logic here
+            Assert.Inconclusive();
+        }
     }
 }
