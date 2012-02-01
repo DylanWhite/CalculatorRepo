@@ -38,29 +38,31 @@ namespace CalculatorTest
             //assert
             Assert.AreEqual(15, result);
         }
+        
         [TestMethod]
-            public void TestAdditionmethod()
-            {
-                //arranges the method
-                var calc = new Calc();
+        public void TestAdditionmethod()
+        {
+            //arranges the method
+            var calc = new Calc();
                 
-                //shows the action
-                var result = calc.Add(2, 4);
+            //shows the action
+            var result = calc.Add(2, 4);
                 
-                //Assert
-                Assert.AreEqual(6, result);
-            }
-            [TestMethod]
-            public void TestMultiplymethod()
-            {
-                //arranges the method
-                var calc = new Calc();
+            //Assert
+            Assert.AreEqual(6, result);
+        }
+            
+        [TestMethod]
+        public void TestMultiplymethod()
+        {
+            //arranges the method
+            var calc = new Calc();
                 
-                //shows the action
-                var result = calc.Mul(2, 4);
+            //shows the action
+            var result = calc.Mul(2, 4);
                 
-                //Assert
-                Assert.AreEqual(8, result);
-            }
+            //Assert
+            Assert.AreEqual(8, result);
+        }
     }
 }
