@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="36099284-d19e-4165-9c26-a91cfd3255eb" name="Dylan@DYLAN-TOSH 2012-02-01 09:07:55" runUser="Dylan-TOSH\Dylan" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="19f88713-bd6f-4720-a94d-d4da1749cafd">
+    <Deployment runDeploymentRoot="Dylan_DYLAN-TOSH 2012-02-01 09_07_55">
+      <DeploymentItem filename="C:\Users\Dylan\Documents\Visual Studio 2010\Projects\CalculatorRepo\Calculator\bin\Debug\Calculator.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-02-01T09:07:55.0623186+00:00" queuing="2012-02-01T09:07:55.8503637+00:00" start="2012-02-01T09:07:55.9673704+00:00" finish="2012-02-01T09:07:56.6364087+00:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="2" executed="2" passed="2" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestSubtractMethod" storage="c:\users\dylan\documents\visual studio 2010\projects\calculatorrepo\calculatortest\bin\debug\calculatortest.dll" id="f55850c3-82e2-aca8-5368-dd9badfe41ad">
+      <Execution id="784908a5-b00b-4bc5-984d-eab8bacad9d8" />
+      <TestMethod codeBase="C:/Users/Dylan/Documents/Visual Studio 2010/Projects/CalculatorRepo/CalculatorTest/bin/Debug/CalculatorTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CalculatorTest.CalcTest, CalculatorTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestSubtractMethod" />
+    </UnitTest>
+    <UnitTest name="TestDivideMethod" storage="c:\users\dylan\documents\visual studio 2010\projects\calculatorrepo\calculatortest\bin\debug\calculatortest.dll" id="3a99b09a-7642-5df7-aaf9-26c4b9868627">
+      <Execution id="0c68fbe4-48a7-477c-8982-07eaee280842" />
+      <TestMethod codeBase="C:/Users/Dylan/Documents/Visual Studio 2010/Projects/CalculatorRepo/CalculatorTest/bin/Debug/CalculatorTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CalculatorTest.CalcTest, CalculatorTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestDivideMethod" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="3a99b09a-7642-5df7-aaf9-26c4b9868627" executionId="0c68fbe4-48a7-477c-8982-07eaee280842" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f55850c3-82e2-aca8-5368-dd9badfe41ad" executionId="784908a5-b00b-4bc5-984d-eab8bacad9d8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="0c68fbe4-48a7-477c-8982-07eaee280842" testId="3a99b09a-7642-5df7-aaf9-26c4b9868627" testName="TestDivideMethod" computerName="DYLAN-TOSH" duration="00:00:00.0992237" startTime="2012-02-01T09:07:56.0473750+00:00" endTime="2012-02-01T09:07:56.5474036+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0c68fbe4-48a7-477c-8982-07eaee280842">
+    </UnitTestResult>
+    <UnitTestResult executionId="784908a5-b00b-4bc5-984d-eab8bacad9d8" testId="f55850c3-82e2-aca8-5368-dd9badfe41ad" testName="TestSubtractMethod" computerName="DYLAN-TOSH" duration="00:00:00.0027277" startTime="2012-02-01T09:07:56.5644046+00:00" endTime="2012-02-01T09:07:56.5734051+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="784908a5-b00b-4bc5-984d-eab8bacad9d8">
+    </UnitTestResult>
+  </Results>
+</TestRun>
