@@ -16,32 +16,31 @@ namespace Calculator
         float f = 0;
         char math_pros;
 
+        //initilizing component
         public Calc()
         {
             InitializeComponent();
         }
         
+        //public methods
         public int Add(int aVal1, int aVal2)
         {
             return aVal1 + aVal2;
-        }
-        
+        }        
         public int Mul(int mVal1, int mVal2)
         {
             return mVal1 * mVal2;
-        }
-        
+        }        
         public int Div(int val1, int val2)
         {
             return val1 / val2;
         }
-
         public int Sub(int sVal1, int sVal2)
         {
             return sVal1 - sVal2;
         }
         
-        //add button
+        //add button click event
         private void add_Click(object sender, EventArgs e)
         {
             //let the equals operation know that the add button had been clicked
@@ -55,7 +54,7 @@ namespace Calculator
             tb.Focus();
         }
 
-        //subtract button
+        //subtract button click event
         private void subtract_Click(object sender, EventArgs e)
         {
             math_pros = 's';
@@ -67,7 +66,7 @@ namespace Calculator
 
         }
 
-        //multiply button
+        //multiply button click event
         private void multiply_Click(object sender, EventArgs e)
         {
             math_pros = 'm';
@@ -78,7 +77,7 @@ namespace Calculator
             tb.Focus();
         }
 
-        //divide button
+        //divide button click event
         private void divide_Click(object sender, EventArgs e)
         {
             math_pros = 'd';
@@ -88,8 +87,8 @@ namespace Calculator
             tb.Clear();
             tb.Focus();
         }
-        
-        //equals button
+
+        //equals button click event
         private void equals_Click(object sender, EventArgs e)
         {
             float.TryParse(tb.Text, out b);
@@ -132,47 +131,38 @@ namespace Calculator
         {
             tb.Text = tb.Text + "1";
         }
-
         private void button2_Click(object sender, EventArgs e)
         {
             tb.Text = tb.Text + "2";     
         }
-
         private void button3_Click(object sender, EventArgs e)
         {
             tb.Text = tb.Text + "3";
         }
-
         private void button4_Click(object sender, EventArgs e)
         {
             tb.Text = tb.Text + "4";
         }
-
         private void button5_Click(object sender, EventArgs e)
         {
             tb.Text = tb.Text + "5";
         }
-
         private void button6_Click(object sender, EventArgs e)
         {
             tb.Text = tb.Text + "6";
         }
-
         private void button7_Click(object sender, EventArgs e)
         {
             tb.Text = tb.Text + "7";
         }
-
         private void button8_Click(object sender, EventArgs e)
         {
             tb.Text = tb.Text + "8";
         }
-
         private void button9_Click(object sender, EventArgs e)
         {
             tb.Text = tb.Text + "9";
         }
-
         private void button0_Click(object sender, EventArgs e)
         {
             tb.Text = tb.Text + "0.";
