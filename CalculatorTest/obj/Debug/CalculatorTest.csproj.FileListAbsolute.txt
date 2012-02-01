@@ -12,3 +12,10 @@ C:\Users\Dylan\Documents\Visual Studio 2010\Projects\CalculatorRepo\CalculatorTe
 C:\Users\Dylan\Documents\Visual Studio 2010\Projects\CalculatorRepo\CalculatorTest\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Dylan\Documents\Visual Studio 2010\Projects\CalculatorRepo\CalculatorTest\obj\Debug\CalculatorTest.dll
 C:\Users\Dylan\Documents\Visual Studio 2010\Projects\CalculatorRepo\CalculatorTest\obj\Debug\CalculatorTest.pdb
+C:\Users\Ch.Yaswanth Sai Ram\Documents\Visual Studio 2010\Projects\CalculatorRepo\CalculatorRepo\CalculatorTest\bin\Debug\CalculatorTest.dll
+C:\Users\Ch.Yaswanth Sai Ram\Documents\Visual Studio 2010\Projects\CalculatorRepo\CalculatorRepo\CalculatorTest\bin\Debug\CalculatorTest.pdb
+C:\Users\Ch.Yaswanth Sai Ram\Documents\Visual Studio 2010\Projects\CalculatorRepo\CalculatorRepo\CalculatorTest\bin\Debug\Calculator.exe
+C:\Users\Ch.Yaswanth Sai Ram\Documents\Visual Studio 2010\Projects\CalculatorRepo\CalculatorRepo\CalculatorTest\bin\Debug\Calculator.pdb
+C:\Users\Ch.Yaswanth Sai Ram\Documents\Visual Studio 2010\Projects\CalculatorRepo\CalculatorRepo\CalculatorTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ch.Yaswanth Sai Ram\Documents\Visual Studio 2010\Projects\CalculatorRepo\CalculatorRepo\CalculatorTest\obj\Debug\CalculatorTest.dll
+C:\Users\Ch.Yaswanth Sai Ram\Documents\Visual Studio 2010\Projects\CalculatorRepo\CalculatorRepo\CalculatorTest\obj\Debug\CalculatorTest.pdb
