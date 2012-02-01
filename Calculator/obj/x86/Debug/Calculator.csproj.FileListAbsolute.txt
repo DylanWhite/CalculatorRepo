@@ -16,3 +16,5 @@ C:\Users\Dylan\Documents\Visual Studio 2010\Projects\CalculatorRepo\Calculator\o
 C:\Users\Dylan\Documents\Visual Studio 2010\Projects\CalculatorRepo\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
 C:\Users\Dylan\Documents\Visual Studio 2010\Projects\CalculatorRepo\Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
 C:\Users\Dylan\Documents\Visual Studio 2010\Projects\CalculatorRepo\Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ch.Yaswanth Sai Ram\Documents\Visual Studio 2010\Projects\CalculatorRepo\CalculatorRepo\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\Ch.Yaswanth Sai Ram\Documents\Visual Studio 2010\Projects\CalculatorRepo\CalculatorRepo\Calculator\obj\x86\Debug\Calculator.pdb
