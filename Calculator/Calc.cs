@@ -40,13 +40,10 @@ namespace Calculator
             return sVal1 - sVal2;
         }
 
-        //IsNullOrEmpty method
-        public static String Test(string s)
+        //Empty method
+        public string EmptyMethod()
         {
-            if (String.IsNullOrEmpty(s))
-                return "is null or empty";
-            else
-                return String.Format("(\"{0}\") is not null or empty", s);
+            return null;
         }
         
         //add button click event
